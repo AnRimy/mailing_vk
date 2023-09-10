@@ -118,9 +118,3 @@ class Gui(tk.Tk):
 if __name__ == '__main__':
     app = Gui()
     app.mainloop()
-
-
-
-    
-
- 
